@@ -68,5 +68,7 @@ platforms or browsing through the current technological developments in the mark
 <div align="center">
 <a href="https://www.buymeacoffee.com/pramitxray" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="pramit" /></a></div>
 <br>
-<h4 align="right">
-Last Edited on: 23/12/23</h4>
+<div style="display: flex; justify-content: space-between;">
+    <span><h5>Thank you for visiting ❤</h5></span>   
+    <span><h5>Last Edited on: 23/12/23</h5></span>
+</div>
