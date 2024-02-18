@@ -6,8 +6,6 @@ I am an undergraduate Computer science and Engineering student and a passionate 
 platforms or browsing through the current technological developments in the market. I'm keen on learning new technical languages and concepts and implementing them in real life situations.
  <br><br>
 
-<img align='right' src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width="240" height="210">
-
 - 📫 I'm a pre-final year student at **VIT VELLORE**
 - 🌏 I'm living now in **Chennai, India**
 - 📚 I have training experience in **RPA and NLP**
@@ -66,10 +64,4 @@ platforms or browsing through the current technological developments in the mark
 
 <br>
 
-
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/pramitxray" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="180" alt="pramit" /></a></div>
-<br>
-
-<h4 align="center">Thank you for visiting ❤   Last Edited on: 23/12/23</h3>
+<h4 align="center">Thank you for visiting ❤   Last Edited on: 18/02/24</h3>
