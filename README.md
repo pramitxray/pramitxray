@@ -52,7 +52,7 @@ platforms or browsing through the current technological developments in the mark
 <div align="center">
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=pramitxray&repo=resumeparser&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/pramitxray/resumeparser)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pramitxray&repo=coursera&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/pramitxray/coursera)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pramitxray&repo=paymit&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/pramitxray/coursera)
 
 <h4 align="center">Show ❤ by giving ⭐ to my Repositories</h4>
 </div><br>
