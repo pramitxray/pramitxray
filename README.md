@@ -44,17 +44,4 @@ platforms or browsing through the current technological developments in the mark
     <img src="https://skillicons.dev/icons?i=aws,python,javascript,nodejs,express,mongodb,java,nextjs,mysql,bash" /><br>
 </div>
 
-<br>
 
-
-<h2 align="center"> My Recent Repos </h2>
-
-<div align="center">
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pramitxray&repo=resumeparser&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/pramitxray/resumeparser)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pramitxray&repo=paymit&&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://github.com/pramitxray/coursera)
-
-<h4 align="center">Show ❤ by giving ⭐ to my Repositories</h4>
-</div><br>
-
-<h4 align="center">Thank you for visiting ❤   Last Edited on: 18/02/24</h3>
