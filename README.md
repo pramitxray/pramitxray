@@ -43,5 +43,6 @@ platforms or browsing through the current technological developments in the mark
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,github,git,postman" />
     <img src="https://skillicons.dev/icons?i=aws,python,javascript,nodejs,express,mongodb,java,nextjs,mysql,bash" /><br>
 </div>
+<br>
 
 
