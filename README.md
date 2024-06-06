@@ -56,12 +56,5 @@ platforms or browsing through the current technological developments in the mark
 
 <h4 align="center">Show ❤ by giving ⭐ to my Repositories</h4>
 </div><br>
-<h2 align="center"> My Github Stats <h2>
-
-| ![Pramit github stats](https://github-readme-stats.vercel.app/api?username=pramitxray&show_icons=true&theme=tokyonight) | ![Pramit GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pramitxray&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pramitxray&theme=tokyonight) | ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
-<br>
 
 <h4 align="center">Thank you for visiting ❤   Last Edited on: 18/02/24</h3>
