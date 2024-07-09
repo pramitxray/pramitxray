@@ -6,9 +6,9 @@ I am an undergraduate Computer science and Engineering student and a passionate 
 platforms or browsing through the current technological developments in the market. I'm keen on learning new technical languages and concepts and implementing them in real life situations.
  <br><br>
 
-- 📫 I'm a pre-final year student at **VIT VELLORE**
+- 📫 I'm a final year student at **VIT VELLORE**
 - 🌏 I'm living now in **Chennai, India**
-- 📚 I have training experience in **RPA and NLP**
+- 📚 I have training experience in **Data Science and Automation**
 - 🌱 I’m currently focusing on **Full Stack Development** and practicing **Data Structures and Algorithms** everyday.
 - 🔭 I’m looking forward to contribute to **Open Source Projects**.
 - 💬 Ask me about **Frontend, React, NLP, Python** or anything
@@ -32,16 +32,13 @@ platforms or browsing through the current technological developments in the mark
 <a href="https://leetcode.com/pramitxray/">
   <img src="https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Youtube Badge"/>
 </a>
- <a href="https://www.instagram.com/khokakhuki/">
-  <img src="https://img.shields.io/badge/Foodblog-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Youtube Badge"/>
-</a>
 </div>
 <br>
 <h2 align="center">️ Languages-Frameworks-Tools </h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,github,git,postman" />
-    <img src="https://skillicons.dev/icons?i=aws,python,javascript,nodejs,express,mongodb,java,nextjs,mysql,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,python,javascript,nodejs,express,mongodb,java,mysql,bash" /><br>
 </div>
 <br>
 
