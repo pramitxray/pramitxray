@@ -11,7 +11,7 @@ platforms or browsing through the current technological developments in the mark
 - 📚 I have training experience in **Data Science and Automation**
 - 🌱 I’m currently focusing on **Full Stack Development** and practicing **Data Structures and Algorithms** everyday.
 - 🔭 I’m looking forward to contribute to **Open Source Projects**.
-- 💬 Ask me about **Frontend, React, NLP, Python** or anything
+- 💬 Ask me about **Typescript, React, NLP, Python** or anything
 - ⚡ Fun fact: I  am  a Chicken wings connoisseur :)<br><br>
 
 <h2 align="center"> Connect with me </h2>
@@ -38,7 +38,7 @@ platforms or browsing through the current technological developments in the mark
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,tailwind,vscode,github,git,postman" />
-    <img src="https://skillicons.dev/icons?i=aws,python,javascript,nodejs,express,mongodb,java,mysql,bash" /><br>
+    <img src="https://skillicons.dev/icons?i=aws,python,javascript,typescript,nodejs,express,mongodb,java,mysql" /><br>
 </div>
 <br>
 
